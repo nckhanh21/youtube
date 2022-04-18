@@ -36,7 +36,7 @@ const Shop = () => {
       <Content
         className="site-layout-background"
         style={{
-          padding: 25,
+          padding: 23,
           margin: 0,
           minHeight: 280,
         }}
